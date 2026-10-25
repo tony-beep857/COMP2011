@@ -1,0 +1,35 @@
+===========================================
+Choose what to do next:
+1. Display parsed posts
+2. Analyze keyword matches
+3. Build weekly board order
+4. Display weekly board
+5. Quit
+Parsed posts:
+[101] amy
+raw_text: ptr lab arr help
+word_count: 4
+tokens: ptr lab arr help
+
+[102] ben
+raw_text: string revision tonight
+word_count: 3
+tokens: string revision tonight
+
+[103] cara
+raw_text: canteen chat later
+word_count: 3
+tokens: canteen chat later
+
+[104] david
+raw_text: labreport arr ptr
+word_count: 3
+tokens: labreport arr ptr
+
+===========================================
+Choose what to do next:
+1. Display parsed posts
+2. Analyze keyword matches
+3. Build weekly board order
+4. Display weekly board
+5. Quit

@@ -1,0 +1,48 @@
+===========================================
+Choose what to do next:
+1. Display parsed posts
+2. Analyze keyword matches
+3. Build weekly board order
+4. Display weekly board
+5. Quit
+3 post(s) contain at least one matched token.
+
+===========================================
+Choose what to do next:
+1. Display parsed posts
+2. Analyze keyword matches
+3. Build weekly board order
+4. Display weekly board
+5. Quit
+Weekly board:
+[301] nia
+keyword_hits: 2
+has_match: true
+first_keyword: lab
+tokens: labquiz* preview ptr*
+
+[302] omar
+keyword_hits: 0
+has_match: false
+first_keyword: none
+tokens: random coffee break
+
+[303] pia
+keyword_hits: 1
+has_match: true
+first_keyword: str
+tokens: stringarray* helper
+
+[304] qin
+keyword_hits: 2
+has_match: true
+first_keyword: str
+tokens: exam str* lab*
+
+===========================================
+Choose what to do next:
+1. Display parsed posts
+2. Analyze keyword matches
+3. Build weekly board order
+4. Display weekly board
+5. Quit

@@ -1,0 +1,82 @@
+===========================================
+Choose what to do next:
+1. Display parsed posts
+2. Analyze keyword matches
+3. Build weekly board order
+4. Display weekly board
+5. Quit
+6 post(s) contain at least one matched token.
+
+===========================================
+Choose what to do next:
+1. Display parsed posts
+2. Analyze keyword matches
+3. Build weekly board order
+4. Display weekly board
+5. Quit
+Weekly board order:
+403 (hits: 3)
+406 (hits: 2)
+407 (hits: 2)
+401 (hits: 2)
+402 (hits: 2)
+405 (hits: 1)
+404 (hits: 0)
+
+===========================================
+Choose what to do next:
+1. Display parsed posts
+2. Analyze keyword matches
+3. Build weekly board order
+4. Display weekly board
+5. Quit
+Weekly board:
+[403] ben
+keyword_hits: 3
+has_match: true
+first_keyword: str
+tokens: str* arr* quiz*
+
+[406] mike
+keyword_hits: 2
+has_match: true
+first_keyword: lab
+tokens: lab* ptr*
+
+[407] mike
+keyword_hits: 2
+has_match: true
+first_keyword: ptr
+tokens: ptr* lab*
+
+[401] zoe
+keyword_hits: 2
+has_match: true
+first_keyword: lab
+tokens: lab* ptr*
+
+[402] amy
+keyword_hits: 2
+has_match: true
+first_keyword: lab
+tokens: lab* exam*
+
+[405] dan
+keyword_hits: 1
+has_match: true
+first_keyword: lab
+tokens: labquiz*
+
+[404] cara
+keyword_hits: 0
+has_match: false
+first_keyword: none
+tokens: notes later
+
+===========================================
+Choose what to do next:
+1. Display parsed posts
+2. Analyze keyword matches
+3. Build weekly board order
+4. Display weekly board
+5. Quit
